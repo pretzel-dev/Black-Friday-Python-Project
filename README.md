@@ -1,1 +1,1 @@
-# Black-Friday-Python-Project
+Project for track prices during  e.g "Black Friday".
